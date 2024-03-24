@@ -1,6 +1,6 @@
 Title:
 
-    Tekkit 2: EP <2>: <Diggy diggy hole and UNLIMITED EMC>
+    Tekkit 2: EP 2: Diggy diggy hole and UNLIMITED EMC
 
 Description:
 
@@ -12,3 +12,4 @@ Description:
     - OBS Studio
     - 2 monitors
     - Sennheiser headphones
+    - Veadotube mini: https://olmewe.itch.io/veadotube-mini
