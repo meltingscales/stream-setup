@@ -9,6 +9,7 @@ Description:
     https://www.technicpack.net/modpack/tekkit-2.1935271
     
     Stream setup:
+    https://github.com/meltingscales/stream-setup
     - OBS Studio
     - 2 monitors
     - Sennheiser headphones
