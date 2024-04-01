@@ -9,6 +9,7 @@ Description:
     https://store.steampowered.com/agecheck/app/1384160/
     
     Stream setup:
+    https://github.com/meltingscales/stream-setup
     - OBS Studio
     - 2 monitors
     - Sennheiser headphones
